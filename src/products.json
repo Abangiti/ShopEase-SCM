@@ -1,0 +1,69 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "description": "Premium noise-canceling wireless headphones with 30-hour battery life",
+      "price": 149.99,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=300&h=300&fit=crop",
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "description": "Fitness tracking smartwatch with heart rate monitor and GPS",
+      "price": 299.99,
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=300&h=300&fit=crop",
+      "category": "Electronics"
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "description": "Lightweight breathable running shoes for maximum comfort",
+      "price": 89.99,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=300&h=300&fit=crop",
+      "category": "Sports"
+    },
+    {
+      "id": 4,
+      "name": "Backpack",
+      "description": "Water-resistant laptop backpack with USB charging port",
+      "price": 59.99,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=300&h=300&fit=crop",
+      "category": "Accessories"
+    },
+    {
+      "id": 5,
+      "name": "Sunglasses",
+      "description": "Polarized UV protection sunglasses with classic design",
+      "price": 79.99,
+      "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=300&h=300&fit=crop",
+      "category": "Accessories"
+    },
+    {
+      "id": 6,
+      "name": "Coffee Maker",
+      "description": "Automatic drip coffee maker with programmable timer",
+      "price": 69.99,
+      "image": "https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6?w=300&h=300&fit=crop",
+      "category": "Home"
+    },
+    {
+      "id": 7,
+      "name": "Desk Lamp",
+      "description": "LED desk lamp with adjustable brightness and color temperature",
+      "price": 45.99,
+      "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=300&h=300&fit=crop",
+      "category": "Home"
+    },
+    {
+      "id": 8,
+      "name": "Yoga Mat",
+      "description": "Non-slip eco-friendly yoga mat with carrying strap",
+      "price": 34.99,
+      "image": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=300&h=300&fit=crop",
+      "category": "Sports"
+    }
+  ]
+}
+
